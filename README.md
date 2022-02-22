@@ -30,7 +30,7 @@
 ---
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danieshrieza&show_icons=true&locale=en&count_private=true&theme=onedark&" alt="danieshrieza" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danieshrieza&show_icons=true&locale=en&count_private=true&theme=onedark&hide=issues,contribs" alt="danieshrieza" /></p>
 
 
 ---
