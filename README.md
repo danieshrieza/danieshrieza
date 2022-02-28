@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Atom Query Discord Bot](https://github.com/danieshrieza/Atom-Query-Discord-Bot).
 
-- 🌱 I’m currently learning **Python (mostly) and JavaScript**.
+- 🌱 I’m currently learning **Python** (mostly) and **JavaScript**.
 
-- 🖋️ I'm interested in **Python Discord Bot and Data Science related project**.
+- 🖋️ I'm interested in **Python Discord Bot** and **Data Science** related project.
 
 - 📖 I'm currently studying at **Penang Free School (Malaysia)**.
 
