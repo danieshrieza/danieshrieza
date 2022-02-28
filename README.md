@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniesh Rieza</h1>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23E2F75F&size=25&lines=Been+writing+code+since+2021)(https://git.io/typing-svg">
+</a>
+</p>
 
 - 🔭 I’m currently working on [Atom Query Discord Bot](https://github.com/danieshrieza/Atom-Query-Discord-Bot).
 
