@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniesh Rieza</h1>
-<h3 align="center">Just a 15 years old student.</h3>
 
 - 🔭 I’m currently working on [Atom Query Discord Bot](https://github.com/danieshrieza/Atom-Query-Discord-Bot).
 
