@@ -3,11 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DAFF7&background=4115FF00&center=true&vCenter=true&width=435&lines=Been+writing+code+since+2021" alt="Typing SVG" /></a>
 </p>
 
-- 16 y/o and still figuring out life 
+- 16 y/o and still figuring out life. 
 
 - Proficient in **Python** and currently learning **C++**, **C** and **JavaScript**.
 
-- Been tinkering with **Arduino** for IOT projects
+- Been tinkering with **Arduino** for IOT projects. 
 
 - Interested in projects that involves complex concepts in Math and Science or any challenging projects.
 
