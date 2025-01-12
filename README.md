@@ -7,11 +7,11 @@
 
 - Proficient in **Python** and currently learning **C++**, **C** and **JavaScript**.
 
-- Been tinkering with **Arduino** for IOT projects. 
+- Been tinkering with **Arduino** for IOT projects.
 
-- Interested in projects that involves complex concepts in Math and Science or any challenging projects.
+- Interested in **Physics** and a whole bunch of math thingy. 
 
-- Studying at **Penang Free School (Malaysia)**.
+- Studying at **Kolej Tingkatan Enam Haji Zainul Abidin**. 
 
 
 <h3 align="left">Languages and Tools:</h3>
