@@ -3,15 +3,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DAFF7&background=4115FF00&center=true&vCenter=true&width=435&lines=Been+writing+code+since+2021" alt="Typing SVG" /></a>
 </p>
 
-- 18 y/o and still figuring out life. 
+- 20 y/o and passionate in Physics. 
 
-- Proficient in **Python** and currently learning **C++**, **C** and **JavaScript**.
+- Proficient in **Python** and eager to learn any new things.
 
 - Been tinkering with **Arduino** for IOT projects.
 
-- Interested in **Physics** and a whole bunch of math thingy. 
-
-- Studying at **Kolej Tingkatan Enam Haji Zainul Abidin**. 
+- Studying at **Universiti Putra Malaysia**. 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,23 +39,16 @@
 <h3 align="left">Social:</h3>
 <p align="left">
 
-<a href="https://discordapp.com/users/775930138881163286" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Discord.svg" alt="discord" width="40" height="40"/> 
-</a> 
 <a href="https://open.spotify.com/user/axnp3kixwslyla1vb4vebeynn" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Spotify.svg" alt="spotify" width="40" height="40"/> 
 </a>
 <a href="https://twitter.com/danieshrieza55" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="twitter" width="40" height="40"/> 
 </a> 
+<a href="https://www.instagram.com/dr_has_insta?stkn=eHF3YWk4M2tiMzdx" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="instagram" width="40" height="40"/> 
+</a> 
 
-</p>
-
----
-
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieshrieza&show_icons=true&locale=en&count_private=true&theme=onedark&hide=issues,contribs" alt="danieshrieza" />
 </p>
 
 
